@@ -17,6 +17,6 @@
     "description": "Moon phase and the day's crop family, with a gardening month calendar",
     "category": "Time",
     "allowMultiple": false,
-    "defaultSection": "centerEnd"
+    "defaultSection": "center"
   }
 }
