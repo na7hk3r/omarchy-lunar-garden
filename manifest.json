@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "nathker.lunar-garden",
+  "name": "Lunar Garden",
+  "version": "1.0.0",
+  "author": "nathker",
+  "license": "MIT",
+  "description": "Lunar cultivation calendar: the moon phase that rules today, the plant family it favours, and the month ahead with its phase changes and favourable days.",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "BarWidget.qml"
+  },
+  "barWidget": {
+    "displayName": "Lunar Garden",
+    "description": "Moon phase and the day's crop family, with a gardening month calendar",
+    "category": "Time",
+    "allowMultiple": false,
+    "defaultSection": "centerEnd"
+  }
+}
